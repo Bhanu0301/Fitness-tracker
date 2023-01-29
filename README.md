@@ -2,7 +2,8 @@
 
 
 Created A Fitness Traker Website that will Suggest specific diet and workout plan based on your age and BMI.
-Created ths as a part of my first hackathon, It was just a beginning and Website not so great,But hope it is a good start
+
+Created ths as a part of my first hackathon, It was just a beginning and Website not so great,but hope it is a good start.
 
 vedio : https://drive.google.com/file/d/1N0aRdu86lmS8psYyGaVAwtdJc8_v6Rq6/view?usp=drive_web
 
